@@ -1,0 +1,35 @@
+HOME = https://sandbox.2checkout.com/sandbox/home/dashboard
+LOGOUT = //a[@id='logout']
+SIGNUP_PAGE = https://sandbox.2checkout.com/sandbox/signup
+USERNAMES = //input[@id='username']
+EMAIL = //input[@id='email']
+PASSWORD = //input[@id='password']
+CONFIRM_PASSWORD = //input[@id='confirm']
+ABOUT_YOU = //select[@id='aboutyou']
+ABOUT = //option[contains(text(),\"I don't have a website\")]
+DIGIN = //input[@id='submit-button']
+ = //a[contains(text(),'Log in')]
+ACCOUNT = account-avatar
+LOGIN_PAGE = https://sandbox.2checkout.com/sandbox
+USERNAMEL = //input[@placeholder='Username']
+LOGIN = //input[@class='btn blue']
+PRODUCTS_PAGE = https://sandbox.2checkout.com/sandbox/products/
+ADD = //a[contains(text(),'Add New Product')]
+CREATE_PAGE = https://sandbox.2checkout.com/sandbox/products/create_product
+NAME = //input[@name='name']
+PRODUCT_ID = //input[@name='vendor_product_id']
+SHORT_DES = //input[@name='description']
+LONG_DES = //textarea[@name='long_description']
+PRICE = //input[@name='price']
+SAVE = //input[@name='submit']
+UDATE = //span[@class='form_valid large']
+PRODUCTS = //a[contains(text(),'Products')]
+EDIT = //a[contains(text(),'Edit')]
+TEXT = Update successful
+All updates succeeded
+CLASSNAME = context-btn edit left
+SAVE_CHANGES = //input[@name='submit']
+ELEMENTS = total
+VIEW = //a[contains(text(),'View')]
+PRICES = //*[contains(@name, 'price')]
+SAVE_CHANGES = //input[@class='context-btn save']

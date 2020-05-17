@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/byte-buddy-1.8.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/client-combined-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/commons-codec-1.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/commons-collections4-4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/commons-compress-1.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/guava-25.0-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/okhttp-3.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/okio-1.14.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/poi-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/poi-ooxml-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="B:/workspace/jar/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
